@@ -1,0 +1,3 @@
+nama : ihsan
+umur : 19
+TTL : cianjur 16 juli 2003
